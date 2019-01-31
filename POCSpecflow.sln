@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCSpecflow", "POCSpecflow\POCSpecflow.csproj", "{BF49A107-AA5B-43FF-8FD9-291799F146A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCSpecflow.Specs", "POCSpecflow.Specs\POCSpecflow.Specs.csproj", "{FA84D4B6-1C08-4DA1-B8ED-6B0E83CC48B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF49A107-AA5B-43FF-8FD9-291799F146A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF49A107-AA5B-43FF-8FD9-291799F146A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF49A107-AA5B-43FF-8FD9-291799F146A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF49A107-AA5B-43FF-8FD9-291799F146A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA84D4B6-1C08-4DA1-B8ED-6B0E83CC48B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA84D4B6-1C08-4DA1-B8ED-6B0E83CC48B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA84D4B6-1C08-4DA1-B8ED-6B0E83CC48B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA84D4B6-1C08-4DA1-B8ED-6B0E83CC48B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
